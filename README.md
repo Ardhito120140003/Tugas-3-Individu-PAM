@@ -1,4 +1,4 @@
-# Tugas Individu 3 - PAM
+# Tugas-3-Individu-PAM
 
 ## Deskripsi
 
